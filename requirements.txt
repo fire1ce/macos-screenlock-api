@@ -6,4 +6,4 @@ MarkupSafe==2.0.1
 pyobjc-core==8.2
 pyobjc-framework-Cocoa==8.2
 pyobjc-framework-Quartz==8.2
-Werkzeug==2.0.2
+Werkzeug==2.2.3
